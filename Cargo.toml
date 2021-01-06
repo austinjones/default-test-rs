@@ -1,0 +1,15 @@
+[package]
+name = "default-test"
+version = "0.1.0"
+description = "A default trait that can be used in tests"
+keywords = ["default", "tests"]
+categories = ["rust-patterns"]
+authors = ["Austin Jones <implAustin@gmail.com>"]
+edition = "2018"
+homepage = "https://github.com/austinjones/tab-rs"
+repository = "https://github.com/austinjones/tab-rs"
+license = "MIT"
+readme = "README.md"
+
+[[example]]
+name = "hello"
